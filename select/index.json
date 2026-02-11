@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "KABANERI OF THE IRON FORTRESS",
+  "base_artist": "EGOIST",
+  "createdAt": "2026-02-11T15:42:35.454581Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kabaneri of the Iron Fortress",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/01_Kabaneri_of_the_Iron_Fortress_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "KABANERI OF THE IRON FORTRESS",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/02_KABANERI_OF_THE_IRON_FORTRESS_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ninelie (Kabaneri of the Iron Fortress)",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/03_Ninelie_(Kabaneri_of_the_Iron_Fortress)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Ninelie (From \"Kabaneri of the Iron Fortress\")",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/04_Ninelie_(From__Kabaneri_of_the_Iron_Fortress_)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kabaneri of the Iron Fortress",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/05_Kabaneri_of_the_Iron_Fortress_EGOIST.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "KABANERI OF THE IRON FORTRESS",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/06_KABANERI_OF_THE_IRON_FORTRESS_EGOIST.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Ninelie (From “Kabaneri of the Iron Fortress”)",
+      "artist": "AmaLee",
+      "has_synced": false,
+      "path": "select/07_Ninelie_(From_“Kabaneri_of_the_Iron_Fortress”)_AmaLee.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "KABANERI OF THE IRON FORTRESS (TV Edit)",
+      "artist": "EGOIST",
+      "has_synced": true,
+      "path": "select/08_KABANERI_OF_THE_IRON_FORTRESS_(TV_Edit)_EGOIST.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "KABANERI OF THE IRON FORTRESS",
+      "artist": "EGOIST",
+      "has_synced": false,
+      "path": "select/pl_01_KABANERI_OF_THE_IRON_FORTRESS_EGOIST.txt"
+    }
+  ]
+}
